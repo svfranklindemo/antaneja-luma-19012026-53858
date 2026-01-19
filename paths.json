@@ -1,16 +1,22 @@
 {
   "mappings": [
-    "/content/praffuls-luma-02-01-11-55/language-masters/en:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/",
-    "/content/praffuls-luma-02-01-11-55/language-masters/en/:/en/",
-    "/content/praffuls-luma-02-01-11-55/configuration:/.helix/config.json",
-    "/content/praffuls-luma-02-01-11-55/metadata:/metadata.json",
-    "/content/praffuls-luma-02-01-11-55/redirects:/redirects.json",
-    "/content/praffuls-luma-02-01-11-55/placeholders:/placeholders.json",
-    "/content/praffuls-luma-02-01-11-55/custom-events:/custom-events.json"
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/en:/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/en/:/en/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/fr/:/fr/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/fr:/fr",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/es/:/es/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/es:/es",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/ja/:/ja/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/ja:/ja",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/de/:/de/",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/language-masters/de:/de",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/configuration:/.helix/config.json",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/metadata:/metadata.json",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/redirects:/redirects.json",
+    "/content/antaneja/696dc3719dc9d74ce62b2821/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/praffuls-luma-02-01-11-55/",
-    "/content/dam/praffuls-luma-02-01-11-55/"
+    "/content/696dc3719dc9d74ce62b2821/",
+    "/content/dam/696dc3719dc9d74ce62b2821/"
   ]
 }
